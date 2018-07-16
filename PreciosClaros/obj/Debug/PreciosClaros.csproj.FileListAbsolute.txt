@@ -1,0 +1,13 @@
+C:\Desarrollo\PreciosClaros\PreciosClaros\PreciosClaros\bin\Debug\PreciosClaros.exe.config
+C:\Desarrollo\PreciosClaros\PreciosClaros\PreciosClaros\bin\Debug\PreciosClaros.exe
+C:\Desarrollo\PreciosClaros\PreciosClaros\PreciosClaros\bin\Debug\PreciosClaros.pdb
+C:\Desarrollo\PreciosClaros\PreciosClaros\PreciosClaros\bin\Debug\Common.dll
+C:\Desarrollo\PreciosClaros\PreciosClaros\PreciosClaros\bin\Debug\Common.pdb
+C:\Desarrollo\PreciosClaros\PreciosClaros\PreciosClaros\obj\Debug\PreciosClaros.csprojResolveAssemblyReference.cache
+C:\Desarrollo\PreciosClaros\PreciosClaros\PreciosClaros\obj\Debug\PreciosClaros.csproj.CoreCompileInputs.cache
+C:\Desarrollo\PreciosClaros\PreciosClaros\PreciosClaros\obj\Debug\PreciosClaros.exe
+C:\Desarrollo\PreciosClaros\PreciosClaros\PreciosClaros\obj\Debug\PreciosClaros.pdb
+C:\Desarrollo\PreciosClaros\PreciosClaros\PreciosClaros\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollo\PreciosClaros\PreciosClaros\PreciosClaros\bin\Debug\Persistance.dll
+C:\Desarrollo\PreciosClaros\PreciosClaros\PreciosClaros\bin\Debug\Persistance.pdb
+C:\Desarrollo\PreciosClaros\PreciosClaros\PreciosClaros\bin\Debug\Newtonsoft.Json.xml

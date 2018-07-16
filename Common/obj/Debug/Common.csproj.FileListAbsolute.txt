@@ -1,0 +1,6 @@
+C:\Desarrollo\PreciosClaros\PreciosClaros\Common\bin\Debug\Common.dll
+C:\Desarrollo\PreciosClaros\PreciosClaros\Common\bin\Debug\Common.pdb
+C:\Desarrollo\PreciosClaros\PreciosClaros\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Desarrollo\PreciosClaros\PreciosClaros\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Desarrollo\PreciosClaros\PreciosClaros\Common\obj\Debug\Common.dll
+C:\Desarrollo\PreciosClaros\PreciosClaros\Common\obj\Debug\Common.pdb

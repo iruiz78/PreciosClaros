@@ -1,0 +1,8 @@
+C:\Desarrollo\PreciosClaros\PreciosClaros\Persistance\bin\Debug\Persistance.dll
+C:\Desarrollo\PreciosClaros\PreciosClaros\Persistance\bin\Debug\Persistance.pdb
+C:\Desarrollo\PreciosClaros\PreciosClaros\Persistance\bin\Debug\Common.dll
+C:\Desarrollo\PreciosClaros\PreciosClaros\Persistance\bin\Debug\Common.pdb
+C:\Desarrollo\PreciosClaros\PreciosClaros\Persistance\obj\Debug\Persistance.csprojResolveAssemblyReference.cache
+C:\Desarrollo\PreciosClaros\PreciosClaros\Persistance\obj\Debug\Persistance.csproj.CoreCompileInputs.cache
+C:\Desarrollo\PreciosClaros\PreciosClaros\Persistance\obj\Debug\Persistance.dll
+C:\Desarrollo\PreciosClaros\PreciosClaros\Persistance\obj\Debug\Persistance.pdb
